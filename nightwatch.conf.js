@@ -13,7 +13,7 @@ module.exports = {
       desiredCapabilities: {
         'browserstack.user': 'sanja24',
         'browserstack.key': 'BxTS45SxnNsfap28iFyL',
-		"browserstack.selenium_version": "3.14.0",
+        'browserstack.selenium_version': '3.14.0',
         os: 'Windows',
         os_version: '10'
       }
